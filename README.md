@@ -1,3 +1,18 @@
+Here I built the Authentication screen. 
+Sign-in ,sign-out, picking an image for every user. 
+Dealing with the stream builder and future builder. 
+Using form and validation process. 
+Try and catch, async and await.
+Adding and storing data for every user by using the Firestore database.
+
+
+
+
+
+
+
+
+
 # chatmes_app
 
 A new Flutter project.
